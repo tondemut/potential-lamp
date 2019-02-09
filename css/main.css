@@ -747,7 +747,7 @@ li.sale-noti > a {
   border-radius: 50%;
   background-color: #111111;
   color: white;
-  font-family: Montserrat-Medium;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-size: 12px;
   position: absolute;
   top: 0;
@@ -1407,7 +1407,7 @@ li.sale-noti > a {
 }
 
 .swal-title {
-  font-family: Montserrat-Medium;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   color: #333333;
   font-size: 16px;
   line-height: 1.5;
